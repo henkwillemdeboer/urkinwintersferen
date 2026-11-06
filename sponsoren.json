@@ -7,6 +7,7 @@
  "goud": [
   {
    "n": "Zuiderzee",
+   "s": "https://www.de-zuiderzee.nl/",
    "l": "zuiderzee.webp"
   },
   {
@@ -26,10 +27,12 @@
   },
   {
    "n": "Het Strandpaviljoen Urk",
+   "s": "https://hetstrandpaviljoenurk.nl/",
    "l": "het-strandpaviljoen-urk.webp"
   },
   {
    "n": "Schildersbedrijf Coenen",
+   "s": "https://kjcoenen.nl/",
    "l": "schildersbedrijf-coenen.webp"
   },
   {
@@ -39,6 +42,7 @@
   },
   {
    "n": "Brands Fish BV",
+   "s": "https://www.linkedin.com/company/brands-fish-b-v/home/",
    "l": "brands-fish-bv.webp"
   },
   {
@@ -63,6 +67,7 @@
   },
   {
    "n": "Protect Flevoland",
+   "s": "https://beveiliging-flevoland.nl/",
    "l": "protect-flevoland.webp"
   },
   {
@@ -94,6 +99,7 @@
   },
   {
    "n": "Hakvoort Loon en grondwerken",
+   "s": "https://grondverzeturk.nl/",
    "l": "hakvoort-loon-en-grondwerken.webp"
   },
   {
@@ -118,6 +124,7 @@
   },
   {
    "n": "Bakker Bedrijfsartikelen BV",
+   "s": "https://www.bedrijfsartikelen.nl/",
    "l": "bakker-bedrijfsartikelen-bv.webp"
   },
   {
@@ -137,6 +144,7 @@
   },
   {
    "n": "Visco",
+   "s": "https://www.viscohoreca.nl/",
    "l": "visco.webp"
   },
   {
@@ -146,6 +154,7 @@
   },
   {
    "n": "Ogerik B.V.",
+   "s": "https://www.ogerik.nl/",
    "l": "ogerik-b-v.webp"
   },
   {
@@ -159,10 +168,12 @@
   },
   {
    "n": "Cafetaria de Bult",
+   "s": "https://cafetariadebult.com/",
    "l": "cafetaria-de-bult.webp"
   },
   {
    "n": "Combisteel Magazijn",
+   "s": "https://www.combisteel.com/",
    "l": "combisteel-magazijn.webp"
   },
   {
@@ -233,6 +244,7 @@
   },
   {
    "n": "Vollenhove tweewielers",
+   "s": "https://vollenhove2wielers.nl/",
    "l": "vollenhove-tweewielers.webp"
   },
   {
@@ -300,6 +312,7 @@
   },
   {
    "n": "Ras Badkamers & Vloeren",
+   "s": "https://www.ras-bv.nl/",
    "l": "ras-badkamers-vloeren.webp"
   },
   {
@@ -326,6 +339,7 @@
   },
   {
    "n": "NotaMare Urk notarissen en adviseurs B.V.",
+   "s": "https://netwerknotarissen.nl/kantoren/notamare-urk-notarissen-en-adviseurs",
    "l": "notamare-urk-notarissen-en-adviseurs-b-v.webp"
   },
   {
