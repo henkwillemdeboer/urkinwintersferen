@@ -25,6 +25,7 @@
     +'<p class="uiw-intro">Urk in Wintersferen wordt mogelijk gemaakt dankzij de steun van onze sponsoren. Met hun betrokkenheid en bijdrage brengen zij samen de winterse magie tot leven in het hart van Urk. Ontdek hieronder onze gouden, zilveren en bronzen partners.</p>'
     +'<div class="uiw-fbox"><p class="uiw-fbadge">Sinds 2026</p><h2 class="uiw-h uiw-fh">Vriend van Urk in Wintersferen</h2><div class="uiw-friend"><div class="uiw-grid big">'+card(d.vriend)+'</div><p class="uiw-ftext">Sinds 2026 is '+esc(d.vriend.n)+' Vriend van Urk in Wintersferen. Met hun steun en betrokkenheid helpen zij ons dit winterse evenement in het hart van Urk mogelijk te maken. Hartelijk dank daarvoor.</p></div></div>'
     +group('Goud sponsoren',d.goud,'c4')+group('Zilver sponsoren',d.zilver,'c5')+group('Brons sponsoren',d.brons,'c6')+group('Educatie sponsoren',d.educatie,'c3')
+    +group('Natura sponsoren',d.natura,'c5')
     +FUND+'</div>';
   }).catch(function(){root.innerHTML=''});
 })();

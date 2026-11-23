@@ -251,6 +251,11 @@
    "n": "Kwalitaria De Bolder",
    "s": "https://www.kwalitaria.nl",
    "l": "kwalitaria-de-bolder.webp"
+  },
+  {
+   "n": "123dakrenovaties",
+   "s": "https://www.123dakrenovaties.nl/",
+   "l": "123dakrenovaties.webp"
   }
  ],
  "brons": [
@@ -378,6 +383,53 @@
    "n": "Braveheart Marine",
    "s": "https://www.braveheartmarine.com",
    "l": "https://www.braveheartmarine.com/wp-content/uploads/2022/12/Braveheart-Marine_NIEUW.svg"
+  }
+ ],
+ "natura": [
+  {
+   "n": "Kwalitaria De Bolder",
+   "s": "https://www.kwalitaria.nl",
+   "l": "kwalitaria-de-bolder.webp"
+  },
+  {
+   "n": "Gemeente Urk",
+   "s": "https://www.urk.nl",
+   "l": "https://cuatro.sim-cdn.nl/urk/uploads/2025-01/logo_gemeente_urk.svg"
+  },
+  {
+   "n": "Zuiderzee",
+   "s": "https://www.de-zuiderzee.nl/",
+   "l": "zuiderzee.webp"
+  },
+  {
+   "n": "Feestjehuren.nu",
+   "s": "https://feestjehuren.nu",
+   "l": "feestjehuren-nu.webp"
+  },
+  {
+   "n": "Ten Napel verhuur",
+   "s": "https://tennapelverhuur.nl",
+   "l": "ten-napel-verhuur.webp"
+  },
+  {
+   "n": "Hakvoort Loon en grondwerken",
+   "s": "https://grondverzeturk.nl/",
+   "l": "hakvoort-loon-en-grondwerken.webp"
+  },
+  {
+   "n": "Bouwcenter",
+   "s": "https://www.bouwcenter.nl/concordia/urk/",
+   "l": "bouwcenter.svg"
+  },
+  {
+   "n": "Drone Dive",
+   "s": "https://www.dronedive.nl",
+   "l": "drone-dive.webp"
+  },
+  {
+   "n": "Ten Napel Brandbeveiliging",
+   "s": "https://tennapelbrandbeveiliging.nl/",
+   "l": "ten-napel-brandbeveiliging.webp"
   }
  ]
 }
